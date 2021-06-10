@@ -5,7 +5,7 @@ on:
 jobs:
   build:
     env:
-      IMAGE_NAME: openldap-backup-exporter
+      IMAGE_NAME: openldap-exporter
     runs-on: ubuntu-latest
     steps:
 
